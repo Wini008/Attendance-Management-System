@@ -1,0 +1,3 @@
+
+
+The Attendance Management System allows teachers to digitally record student attendance. After logging in, the teacher selects a class and the system displays a list of students. The teacher marks each student as present or absent and submits the attendance. The data is processed by PHP and stored in a MySQL database. This helps automate attendance tracking and reduces manual record keeping.
